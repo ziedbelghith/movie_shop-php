@@ -1,0 +1,5 @@
+
+AuthName "Page d'administration protegee"
+AuthType Basic
+AuthUserFile "/opt/lampp/htdocs/FADZ-2/storescripts/.htpasswd"
+Require valid-user
